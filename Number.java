@@ -20,7 +20,7 @@ public class Number{
 		return theValue;
 	}
 	/*equals()- Compares one Number object to another Object.
-	@param Number
+	@param Object
 	@return boolean*/
     public boolean equals(Object obj) {
         //If the objects are identical return true.
